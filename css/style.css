@@ -697,3 +697,23 @@ button::-moz-focus-inner {
 .footer .author p a:hover {
 	text-decoration:underline;
 }
+
+.b-share__link {
+	width:38px !important;
+	height:38px !important;
+}
+.b-share-btn__gplus {
+	background:url('../img/google_icon.png') no-repeat left top;
+}
+.b-share-btn__vkontakte {
+	background:url('../img/vkontakte_icon.png') no-repeat left top;
+}
+.b-share-btn__facebook {
+	background:url('../img/facebook_icon.png') no-repeat left top;
+}
+.b-share-btn__twitter {
+	background:url('../img/twitter_icon.png') no-repeat left top;
+}
+.b-share-btn__odnoklassniki {
+	background:url('../img/odnoklassniki_icon.png') no-repeat left top;
+}
